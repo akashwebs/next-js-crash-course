@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    height: 80px;
+    padding: 10px;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #fff;
+    color: #000;
+    
+}
+.nav ul{
+    display: flex;
+    list-style-type: none;
+    padding: 7px 19px;
+    
+}
+.nav ul a{
+    margin: 0 5px;
+    text-decoration: none;
+
+}
